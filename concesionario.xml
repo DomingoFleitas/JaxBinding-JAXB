@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:concesionario xmlns:ns2="concesionario.xml.jaxb.model">
+    <nombre>Nombre</nombre>
+    <ubicacion>Dirección</ubicacion>
+    <listaCoches>
+        <coche>
+            <marca>Modelo1</marca>
+            <modelo>Marca1</modelo>
+            <color>Color1</color>
+            <matricula>1111AAA</matricula>
+        </coche>
+        <coche>
+            <marca>Modelo2</marca>
+            <modelo>Marca2</modelo>
+            <color>Color2</color>
+            <matricula>2222BBB</matricula>
+        </coche>
+        <coche>
+            <marca>Modelo3</marca>
+            <modelo>Marca3</modelo>
+            <color>Color3</color>
+            <matricula>3333CCC</matricula>
+        </coche>
+    </listaCoches>
+</ns2:concesionario>
